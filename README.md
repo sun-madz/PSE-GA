@@ -17,3 +17,4 @@ It is a peer-to-peer learning system designed not only as support for those who 
 Product Vision: For students and lifelong learners, the Knowledge Exchange Platform's vision is to ensure equal access to education by turning one's knowledge or skill into a tradable currency. The aim is to create a 1-on-1 mutual-learning ecosystem, where every learner is a tutor, and every tutor is a learner.   
 
 # Overview of Your SDLC Work : short summary of how you went through planning, design, testing/evaluation.
+
