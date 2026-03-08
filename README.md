@@ -1,7 +1,8 @@
 # PSE-GA
 # Project Title & SDG Chosen : which Sustainable Development Goal your app prototype supports.
 Project Title: Tutor Match
-Chosen SDG: SDG 4 (Quality Education: Ensure inclusive and equitable quality education and promote lifelong opportunities for all)
+
+, Chosen SDG: SDG 4 (Quality Education: Ensure inclusive and equitable quality education and promote lifelong opportunities for all)
 # Team Members: names and roles.
 Sandrine Madeleine (Leader) (Developer)
 , Hania Joomun (Developer)
