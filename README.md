@@ -15,7 +15,7 @@ An online knowledge exchange platform operating on a credit-based model in which
 
 It is a peer-to-peer learning system designed not only as support for those who are falling behind in certain subjects in school but also for those who cannot access traditional schools or expensive private tutoring due to financial limitations, as an alternative informal education pathway. 
 
-Product Vision: For students and lifelong learners, the Knowledge Exchange Platform's vision is to ensure equal access to education by turning one's knowledge or skill into a tradable currency. The aim is to create a 1-on-1 mutual-learning ecosystem, where every learner is a tutor, and every tutor is a learner.   
+Product Vision: For students and lifelong learners, TutorMatch's vision is to ensure equal access to education by turning one's knowledge or skill into a tradable currency. The aim is to create a 1-on-1 mutual-learning ecosystem, where every learner is a tutor, and every tutor is a learner, covering both active recalling and passive learning.   
 
 # Overview of Your SDLC Work : short summary of how you went through planning, design, testing/evaluation.
 
