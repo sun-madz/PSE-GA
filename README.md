@@ -4,9 +4,9 @@ Project Title: Tutor Match
 
 Chosen SDG: SDG 4 (Quality Education: Ensure inclusive and equitable quality education and promote lifelong opportunities for all)
 # Team Members: names and roles.
-Sandrine Madeleine (Leader) (Developer)
+Sandrine Madeleine (Leader) (Product Owner, Developer) 
 , Hania Joomun (Developer)
-, Hossain Tasfia (Developer)
+, Hossain Tasfia (Developer, Scrum Master) 
 , Josephine Natania Halim (Developer)
 , Kelcent Nellson (Developer)
 
