@@ -18,4 +18,5 @@ It is a peer-to-peer learning system designed not only as support for those who 
 Product Vision: For students and lifelong learners, TutorMatch's vision is to ensure equal access to education by turning one's knowledge or skill into a tradable currency. The aim is to create a 1-on-1 mutual-learning ecosystem, where every learner is a tutor, and every tutor is a learner, covering both active recalling and passive learning.   
 
 # Overview of Your SDLC Work : short summary of how you went through planning, design, testing/evaluation.
+The project followed an Agile approach within the Software Development Life Cycle (SDLC). During the planning stage, the team defined the goals of the knowledge exchange application, identified key features, and organized tasks using Scrum roles. In the design stage, the user interface and system layout were created iteratively, allowing improvements based on team feedback. Finally, testing and evaluation were carried out by reviewing the designs and refining them to ensure the platform would be user friendly and effective for students and tutors.
 
